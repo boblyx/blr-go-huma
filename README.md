@@ -10,6 +10,7 @@ go mod tidy
 ```bash
 go run .
 ```
+3. Spotlight docs can be accessible at `http://127.0.0.1:8888`.
 
 ## Build
 1. Build the application
